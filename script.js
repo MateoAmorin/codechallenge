@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
             })
             .then((data) => {
               console.log(data);
-                alert("Respuesta del servidor")
+                alert("Registrado")
                })
          
          }) ;
